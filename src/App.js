@@ -1,4 +1,5 @@
-import "./App.css";
+import "./index.css";
+import React from "react";
 import { Routes, Route } from "react-router-dom";
 import About from "routes/About";
 import Gallery from "routes/Gallery";
