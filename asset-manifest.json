@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/NaUbitejZiemi/static/css/main.f855e6bc.css",
-    "main.js": "/NaUbitejZiemi/static/js/main.a9f962b1.js",
-    "static/js/453.ed3810f9.chunk.js": "/NaUbitejZiemi/static/js/453.ed3810f9.chunk.js",
+    "main.css": "/NaUbitejZiemi/static/css/main.f7b0c64c.css",
+    "main.js": "/NaUbitejZiemi/static/js/main.d419e4ee.js",
+    "static/media/offer.png": "/NaUbitejZiemi/static/media/offer.1cafdcd5cde8e96c4a68.png",
+    "static/media/banner.png": "/NaUbitejZiemi/static/media/banner.8f5b3dec684b36f286ac.png",
     "index.html": "/NaUbitejZiemi/index.html",
-    "main.f855e6bc.css.map": "/NaUbitejZiemi/static/css/main.f855e6bc.css.map",
-    "main.a9f962b1.js.map": "/NaUbitejZiemi/static/js/main.a9f962b1.js.map",
-    "453.ed3810f9.chunk.js.map": "/NaUbitejZiemi/static/js/453.ed3810f9.chunk.js.map"
+    "main.f7b0c64c.css.map": "/NaUbitejZiemi/static/css/main.f7b0c64c.css.map",
+    "main.d419e4ee.js.map": "/NaUbitejZiemi/static/js/main.d419e4ee.js.map"
   },
   "entrypoints": [
-    "static/css/main.f855e6bc.css",
-    "static/js/main.a9f962b1.js"
+    "static/css/main.f7b0c64c.css",
+    "static/js/main.d419e4ee.js"
   ]
 }
